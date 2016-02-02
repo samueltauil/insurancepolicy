@@ -1,0 +1,9 @@
+target/
+bin/
+lab_assets/
+.settings/
+.classpath
+.project
+*.zip
+*.log
+.DS_Store/
